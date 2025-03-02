@@ -3,6 +3,20 @@
 - **FrontEnd** : **React** 
 - **BackEnd**  : **NodeJs**
 
+## client
+
+```bash
+    cd client
+    npm run dev
+```
+
+## server
+
+```bash
+    cd server
+    npm run start
+```
+
 ## Routes
 ---
 ### GET
