@@ -1,3 +1,8 @@
+## Tech Stack
+
+- **FrontEnd** : **React** 
+- **BackEnd**  : **NodeJs**
+
 ## Routes
 ---
 ### GET
